@@ -1,0 +1,5 @@
+﻿  EditorDeTexto.cpp
+C:\Users\danie\source\repos\EditorDeTexto\EditorDeTexto\EditorDeTexto.cpp(231,27): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\danie\source\repos\EditorDeTexto\EditorDeTexto\EditorDeTexto.cpp(461,35): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\danie\source\repos\EditorDeTexto\EditorDeTexto\EditorDeTexto.cpp(472,39): warning C4018: '<': no coinciden signed/unsigned
+  EditorDeTexto.vcxproj -> C:\Users\danie\source\repos\EditorDeTexto\Debug\EditorDeTexto.exe
